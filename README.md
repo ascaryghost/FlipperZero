@@ -1,1 +1,2 @@
-Flipper Zero personal Repository and information. 
+Flipper Zero notes repository and information. 
+
